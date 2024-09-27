@@ -1,0 +1,5 @@
+google
+yahoo
+reddit
+orkut
+oracle
